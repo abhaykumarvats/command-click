@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Command Click",
   "version": "0.0.1",
-  "description": "Open links in new tabs. Simple.",
+  "description": "Open links in new tabs, always.",
   "content_scripts": [
     {
       "js": ["script.js"],
